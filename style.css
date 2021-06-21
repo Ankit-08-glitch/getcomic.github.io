@@ -1,0 +1,47 @@
+.b1{
+    background-image: url("https://s3.envato.com/files/198662778/Preview_Image_mail.jpg");
+    background-repeat:no-repeat;
+    background-size: 179ex 86ex;
+}
+.login-form{
+    background-color: antiquewhite;
+    margin: auto;
+    border-style: double;
+    border-color: blue;
+    border-width: 2ex;
+    width: 45ex;
+    padding:7ex;
+    height:20ex;
+    justify-content: center;
+    margin-top:23ex;
+    opacity:0.7;
+}
+.text-center{
+    opacity: 1;
+    margin:auto;
+    margin-left:6ex;
+}
+.form-control{
+    margin-left:10ex;
+}
+.btn{
+    margin-left:16ex;
+    border-radius: 0.25ex;
+    border-color: brown;
+    padding:1ex;
+}
+#email{
+    border-radius: 0.25ex;
+    height: 5ex;
+    text-align: center;
+}
+#otp{
+    margin-bottom: 3ex;
+    border-radius: 0.25ex;
+    height: 5ex;
+    text-align: center;
+}
+#otp_error{
+    text-align: center;
+    margin-left:3ex;
+}
