@@ -1,1 +1,0 @@
-# getcomic.github.io
